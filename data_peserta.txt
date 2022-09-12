@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp Nodejs Adonis Backend
+1. Nama: Asyraf Akmal
+2. Email: swhiterdeveloper@gmail.com
+3. Sistem Operasi yang digunakan: MacOS & Windows 10
+4. Akun Gitlab: https://github.com/swhiter
+5. Akun Telegram: @Asyraf_swhiter
